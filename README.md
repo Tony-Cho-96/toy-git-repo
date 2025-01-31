@@ -1,2 +1,2 @@
 # toy-git-repo
-A toy Git repository for learning purposes"
+A toy Git repository for learning purposes
